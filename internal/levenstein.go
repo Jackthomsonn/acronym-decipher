@@ -1,3 +1,4 @@
+// https://www.npmjs.com/package/fastest-levenshtein (Converted for Go)
 package internal
 
 import "math"
